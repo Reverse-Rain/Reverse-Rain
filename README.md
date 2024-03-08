@@ -11,7 +11,7 @@
  
  🔭 I’m currently a **Engineering Student**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AI, ML, DL ,Data Science **
 
 💬 Ask me about **Ai , ML DL , Data Science... or anything [here]()**
 
